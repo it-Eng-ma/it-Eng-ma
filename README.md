@@ -40,38 +40,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 # Project Gallery
-<div style="display: flex; justify-content: center;">
-  <div style="display: none;" id="gallery">
-    <img src="![Uploading Screensho![Screenshot (3)](https://github.com/user-attachments/assets/a5b1c441-b21a-4767-8d11-5b685bc0f553)" alt="Image 1" style="width: 30%; margin: 0 5px;">
-    <img src="![Screenshot (2)](https://github.com/user-attachments/assets/8d7044a5-86bc-4750-be9a-957e48d79026)" alt="Image 2" style="width: 30%; margin: 0 5px;">
-    <img src="![Screenshot (14)](https://github.com/user-attachments/assets/60de42d7-8f7d-4642-8330-0b45433ec986)" alt="Image 2ggg" style="width: 30%; margin: 0 5px;">
-  </div>
-</div>
-<div style="text-align: center;">
-  <button onclick="prev()">&#9664; Prev</button>
-  <button onclick="next()">Next &#9654;</button>
-</div>
-<script>
-  let currentSlide = 0;
-  const slides = document.querySelectorAll('#gallery img');
-  
-  function showSlide(index) {
-    for (let i = 0; i < slides.length; i++) {
-      slides[i].style.display = (i === index) ? 'inline-block' : 'none';
-    }
-  }
-  function next() {
-    currentSlide = (currentSlide + 1) % slides.length;
-    showSlide(currentSlide);
-  }
-  function prev() {
-    currentSlide = (currentSlide - 1 + slides.length) % slides.length;
-    showSlide(currentSlide);
-  }
-  // Show the first slide initially
-  showSlide(currentSlide);
-</script>
-
+Image Collection
+| !Screenshot 1 | !Screenshot 2 | !Screenshot 3 |
+|:--:|:--:|:--:|
+| !Screenshot 4 | !Screenshot 5 | !Screenshot 6 |
 
 #
 
