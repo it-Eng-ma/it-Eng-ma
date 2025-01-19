@@ -40,10 +40,14 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 # Project Gallery
-Image Collection
-| ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
-|:--:|:--:|:--:|
-| ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
+
+
+| ![Image 1](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 2](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 3](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| **Image 1 Description** | **Image 2 Description** | **Image 3 Description** |
+| ![Image 4](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 5](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 6](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
+| **Image 4 Description** | **Image 5 Description** | **Image 6 Description** |
+
 
 #
 
