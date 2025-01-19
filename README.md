@@ -1,4 +1,4 @@
-![Screenshot (1)](https://github.com/user-attachments/assets/6a739bfc-4b81-4b08-b0ec-81b89ca3cb40)# 🏄‍♂️ MYUSERNAME
+# 🏄‍♂️ MYUSERNAME
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
@@ -44,7 +44,7 @@ I'm an indie full-stack developer and content creator building my version of the
   <div style="display: none;" id="gallery">
     <img src="![Uploading Screensho![Screenshot (3)](https://github.com/user-attachments/assets/a5b1c441-b21a-4767-8d11-5b685bc0f553)" alt="Image 1" style="width: 30%; margin: 0 5px;">
     <img src="![Screenshot (2)](https://github.com/user-attachments/assets/8d7044a5-86bc-4750-be9a-957e48d79026)" alt="Image 2" style="width: 30%; margin: 0 5px;">
-    <img src="" alt="![Screenshot (14)](https://github.com/user-attachments/assets/60de42d7-8f7d-4642-8330-0b45433ec986)" style="width: 30%; margin: 0 5px;">
+    <img src="![Screenshot (14)](https://github.com/user-attachments/assets/60de42d7-8f7d-4642-8330-0b45433ec986)" alt="Image 2ggg" style="width: 30%; margin: 0 5px;">
   </div>
 </div>
 <div style="text-align: center;">
