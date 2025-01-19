@@ -1,5 +1,4 @@
-# 🏄‍♂️ Forrest Knight
-
+# 🏄‍♂️ MYUSERNAME
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
@@ -35,6 +34,41 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+
+# Project Gallery
+<div style="display: flex; justify-content: center;">
+  <div style="display: none;" id="gallery">
+    <img src="image1.jpg" alt="Image 1" style="width: 30%; margin: 0 5px;">
+    <img src="image2.jpg" alt="Image 2" style="width: 30%; margin: 0 5px;">
+    <img src="image3.jpg" alt="Image 3" style="width: 30%; margin: 0 5px;">
+  </div>
+</div>
+<div style="text-align: center;">
+  <button onclick="prev()">&#9664; Prev</button>
+  <button onclick="next()">Next &#9654;</button>
+</div>
+<script>
+  let currentSlide = 0;
+  const slides = document.querySelectorAll('#gallery img');
+  
+  function showSlide(index) {
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = (i === index) ? 'inline-block' : 'none';
+    }
+  }
+  function next() {
+    currentSlide = (currentSlide + 1) % slides.length;
+    showSlide(currentSlide);
+  }
+  function prev() {
+    currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+    showSlide(currentSlide);
+  }
+  // Show the first slide initially
+  showSlide(currentSlide);
+</script>
+
 
 #
 
