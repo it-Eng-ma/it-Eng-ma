@@ -38,11 +38,12 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
+
 # Project Gallery
 Image Collection
-| !Screenshot 1 | !Screenshot 2 | !Screenshot 3 |
+| ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
 |:--:|:--:|:--:|
-| !Screenshot 4 | !Screenshot 5 | !Screenshot 6 |
+| ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Screenshot (14)](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
 
 #
 
