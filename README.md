@@ -38,7 +38,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-
 # Project Gallery
 Image Collection
 | !Screenshot 1 | !Screenshot 2 | !Screenshot 3 |
