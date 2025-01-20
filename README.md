@@ -28,13 +28,14 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 # Project Gallery
+![scrMODELVIEW](https://github.com/user-attachments/assets/45839e67-f24a-47fa-9339-fafe98dc5d0f)
+
+![SCRgRAPH](https://github.com/user-attachments/assets/c6a88658-4d42-49db-9c28-41e8021914ec)
+
+![EVOLUTION CRYPTO](https://github.com/user-attachments/assets/1a6bc2d0-9493-4d8b-bf76-e8d638e3d532)
 
 
-
-
-
-
-| ![scrrr1](https://github.com/user-attachments/assets/4271bc5d-ecff-4315-9283-312fa27160bc) | ![scrr2](https://github.com/user-attachments/assets/4a173b23-ca25-4450-afda-a0741ded24de) | ![Image 3](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
+| ![scrrr1](https://github.com/user-attachments/assets/4271bc5d-ecff-4315-9283-312fa27160bc) | ![scrr2](https://github.com/user-attachments/assets/4a173b23-ca25-4450-afda-a0741ded24de) | ![scrMODELVIEW](https://github.com/user-attachments/assets/45839e67-f24a-47fa-9339-fafe98dc5d0f) |
 |:-------------------------------:|:-------------------------------:|:-------------------------------:|
 | **Image 1 Description** | **Image 2 Description** | **Image 3 Description** |
 | ![Image 4](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 5](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 6](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
