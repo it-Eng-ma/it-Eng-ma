@@ -30,7 +30,11 @@ I'm an indie full-stack developer and content creator building my version of the
 # Project Gallery
 
 
-| ![Image 1](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 2](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 3](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
+
+
+
+
+| ![scrrr1](https://github.com/user-attachments/assets/4271bc5d-ecff-4315-9283-312fa27160bc) | ![scrr2](https://github.com/user-attachments/assets/4a173b23-ca25-4450-afda-a0741ded24de) | ![Image 3](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
 |:-------------------------------:|:-------------------------------:|:-------------------------------:|
 | **Image 1 Description** | **Image 2 Description** | **Image 3 Description** |
 | ![Image 4](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 5](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) | ![Image 6](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
