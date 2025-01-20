@@ -34,7 +34,7 @@ I'm an indie full-stack developer and content creator building my version of the
 |:-------------------------------:|:-------------------------------:|:-------------------------------:|
 | **Image 1 Description** | **Image 2 Description** | **Image 3 Description** |
 | ![SCRgRAPH](https://github.com/user-attachments/assets/c6a88658-4d42-49db-9c28-41e8021914ec) | ![EVOLUTION CRYPTO](https://github.com/user-attachments/assets/1a6bc2d0-9493-4d8b-bf76-e8d638e3d532)
- | ![Image 6](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
+ | ![Image 6](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |  | ![Image 6](https://github.com/user-attachments/assets/436bec5d-545a-4196-9e17-498d65a02f6f) |
 | **Image 4 Description** | **Image 5 Description** | **Image 6 Description** |
 
 
