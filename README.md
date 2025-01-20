@@ -38,7 +38,7 @@ I'm an indie full-stack developer and content creator building my version of the
 |:----------------------------------------:|:----------------------------------------:|:---------------------------------------------:|
 | **Overview**                  | **Coin Analysis**                  | **ModelView**                       |
 | ![SCRgRAPH](https://github.com/user-attachments/assets/c6a88658-4d42-49db-9c28-41e8021914ec) | ![EVOLUTION CRYPTO](https://github.com/user-attachments/assets/1a6bc2d0-9493-4d8b-bf76-e8d638e3d532) | ![Screenshot 2024-01-14 192917](https://github.com/user-attachments/assets/7cc2bf16-a545-4b06-b9cd-457df52d898d) |
-| **Cryptocurrency Evolution**                  |                 | **Image 6 Description**                       |
+| **Cryptocurrency Evolution**                  |                 | **ChainStats App**                       |
 
 
 #
